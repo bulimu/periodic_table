@@ -20,12 +20,10 @@ const colorMap = {
 const prepareData = (elements) => {
   return elements.map(({ name, category, number, symbol, xpos, ypos }) => {
     const newYpos = [57, 89].includes(number) ? ypos - 3 : ypos;
-
     const newXpos = [9, 10].includes(newYpos) ? xpos - 1 : xpos;
 
     if (category.includes("unknown")) {
       const keys = Object.keys(colorMap);
-
       const isSubset = keys.filter((element) => category.includes(element));
 
       // the maximal matching category in the colormap
