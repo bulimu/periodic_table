@@ -1,7 +1,11 @@
 
 ## Code in Sandboxes: [Predict_table](https://codesandbox.io/p/github/bulimu/periodic_table/main?file=/src/index.js:1,1&selection=[{%22endColumn%22:1,%22endLineNumber%22:12,%22startColumn%22:1,%22startLineNumber%22:12}]&workspace=%7B%22activeFileId%22%3A%22clfkuyx74000cg2eecajx5rye%22%2C%22openFiles%22%3A%5B%22%2FREADME.md%22%5D%2C%22sidebarPanel%22%3A%22EXPLORER%22%2C%22gitSidebarPanel%22%3A%22COMMIT%22%2C%22spaces%22%3A%7B%22clfkuz1yv000x356imbdp3jhq%22%3A%7B%22key%22%3A%22clfkuz1yv000x356imbdp3jhq%22%2C%22name%22%3A%22Default%22%2C%22devtools%22%3A%5B%7B%22key%22%3A%22clfkv62uv0019356i1756qyh1%22%2C%22type%22%3A%22PROJECT_SETUP%22%2C%22isMinimized%22%3Afalse%7D%2C%7B%22type%22%3A%22PREVIEW%22%2C%22taskId%22%3A%22start%22%2C%22port%22%3A3000%2C%22key%22%3A%22clfkuznsx009k356igscb8t6t%22%2C%22isMinimized%22%3Afalse%7D%2C%7B%22type%22%3A%22TASK_LOG%22%2C%22taskId%22%3A%22start%22%2C%22key%22%3A%22clfkuzlcd006c356i0ybdtl5i%22%2C%22isMinimized%22%3Afalse%7D%5D%7D%7D%2C%22currentSpace%22%3A%22clfkuz1yv000x356imbdp3jhq%22%2C%22spacesOrder%22%3A%5B%22clfkuz1yv000x356imbdp3jhq%22%5D%2C%22hideCodeEditor%22%3Afalse%7D)
 
----
+---![Screenshot 2024-11-07 162729](https://github.com/user-attachments/assets/9849215f-1a40-4745-99c9-1c702e51597e)
+
+
+
+
 
 # Getting Started with Create React App
 
